@@ -2,8 +2,6 @@
 
 A responsive and user-friendly **Resume Builder** web application built with **React.js** and **Node.js**, allowing users to easily create, edit, and download professional resumes.
 
-DEMO LINK(https://youtu.be/LXUWQs20IZw)
-
 ---
 
 ## 🔧 Tech Stack
